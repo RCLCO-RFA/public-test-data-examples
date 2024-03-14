@@ -1,0 +1,26 @@
+[
+    {
+      "Latitude": 40.712776,
+      "Longitude": -74.005974,
+      "Location": "New York",
+      "Population": 8419000
+    },
+    {
+      "Latitude": 34.052235,
+      "Longitude": -118.243683,
+      "Location": "Los Angeles",
+      "Population": 3971000
+    },
+    {
+      "Latitude": 41.878113,
+      "Longitude": -87.629799,
+      "Location": "Chicago",
+      "Population": 2716000
+    },
+    {
+      "Latitude": 29.760427,
+      "Longitude": -95.369804,
+      "Location": "Houston",
+      "Population": 2313000
+    }
+  ]  
